@@ -1,39 +1,101 @@
-# Sumeet Kanhiya
+<div align="center">
 
-I am a Computer Science student at Dawood University of Engineering & Technology in Karachi, focused on Human-Computer Interaction and frontend systems. I build web applications such as Sock.io with React, TypeScript, and Tailwind CSS.
+  <!-- Animated Header Typing Effect -->
+  <a href="https://github.com/sumeetkl11">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&random=false&width=620&lines=Hi%2C+I'm+Sumeet+Kanhiya+%F0%9F%91%8B;Frontend+Developer+%26+CS+Student;React+%26+TypeScript+Developer;Building+Modern+Web+Apps" alt="Typing SVG" />
+  </a>
 
-## Current Focus
+  <p align="center">
+    <b>CS Undergrad @ Dawood University of Engineering & Technology, Karachi</b><br>
+    Building clean, responsive web applications with React, TypeScript, and modern UI design.
+  </p>
 
-- Currently building: Sock.io, a real-time messaging application with contact management and offline state support.
-- Currently studying: Human-Computer Interaction at Dawood University of Engineering & Technology in Karachi to apply usability testing to React interfaces.
-- Ask me about: React component architecture, TypeScript interfaces, Figma wireframes, and Vite configuration.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sumeet-kanhiya"><img src="https://img.shields.io/badge/LinkedIn-sumeet--kanhiya-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://sumeetkanhiya.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-sumeetkanhiya.vercel.app-09090b?style=flat-square&logo=vercel&logoColor=61DAFB" alt="Live Portfolio" /></a>
+  </p>
 
-## Technologies
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
+---
 
-## GitHub Activity
+### Featured Projects
 
-<p align="center">
+| Project | What It Does | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[LinkForge](https://github.com/sumeetkl11/LinkForge)** | URL management and workflow tool featuring a responsive analytics dashboard and client-side caching. | `React` `TypeScript` `Tailwind CSS` | ![Active](https://img.shields.io/badge/Status-Maintained-success?style=flat-square) |
+| **[ChefCraft](https://github.com/sumeetkl11/ChefCraft)** | Recipe exploration app designed for fast ingredient filtering, mobile layouts, and minimal UI clutter. | `React` `TypeScript` `Tailwind CSS` | ![Active](https://img.shields.io/badge/Status-Maintained-success?style=flat-square) |
+| **[Portfolio](https://github.com/sumeetkl11/portfolio)** | Personal web showcase built with modular UI components, custom transitions, and responsive bento layouts. | `React` `TypeScript` `Tailwind CSS` | ![Active](https://img.shields.io/badge/Status-Maintained-success?style=flat-square) |
+
+---
+
+### Current Focus
+
+- **Frontend Development:** Building fast, interactive web applications and experimenting with modern UI patterns.
+- **Tools & Workflow:** Writing type-safe React components, setting up fast Vite build pipelines, and styling with Tailwind CSS.
+- **Open for discussions on:** React state management, frontend performance, Figma-to-code workflow, and modern web development.
+
+---
+
+### Technologies & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" />
+      <br><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" />
+      <br><sub><b>Vite</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
+      <br><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
+      <br><sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
+      <br><sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumeetkl11&theme=github-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=sumeetkl11&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumeetkl11&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/sumeet-kanhiya](https://www.linkedin.com/in/sumeet-kanhiya)
-- GitHub: [github.com/sumeetkl11](https://github.com/sumeetkl11)
+</div>
